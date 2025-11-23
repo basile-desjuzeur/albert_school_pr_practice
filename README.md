@@ -1,5 +1,8 @@
 # Instructions -- Workflow Git & GitHub
 
+Cet exercice est basé sur [ce projet](https://github.com/mathurinm/github-assignment) maintenu par 
+Mathurin Massias
+
 ## 1. Forker le dépôt
 
 -   Cliquez sur **Fork** en haut à droite de la page GitHub du projet.

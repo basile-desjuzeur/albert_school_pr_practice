@@ -1,5 +1,21 @@
 # Instructions -- Workflow Git & GitHub
 
+Cet exercice est basé sur [ce projet](https://github.com/mathurinm/github-assignment) maintenu par Mathurin Massias.
+
+## 0. Créer un personnal access token 
+
+- Allez sur [ce lien](https://github.com/settings/tokens)
+
+- Cliquez sur **Generate new token** (classic)
+
+- Donnez un nom à ce token (par ex : _cours-git__)
+
+- Cochez l'option **repo**
+
+- Cliquez sur **Generate token**
+
+- Copiez le token dans un endroit sûr (_e.g. Bitwarden, Proton_)
+
 ## 1. Forker le dépôt
 
 -   Cliquez sur **Fork** en haut à droite de la page GitHub du projet.

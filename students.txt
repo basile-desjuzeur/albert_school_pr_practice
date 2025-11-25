@@ -10,8 +10,13 @@ Constantin Vuillier X
 Daphnee Stoessel
 Elie Gerwig X
 Edgar Guimet
+<<<<<<< HEAD
+Eliott Musy X 
+Ilona Laulan
+=======
 Eliott Musy
 Ilona Laulan X
+>>>>>>> 98c44b87dff6ae98354903a08fe107c9192f7360
 Jean Leclerc
 Lissa Leblanc X
 Louis Pinsard X

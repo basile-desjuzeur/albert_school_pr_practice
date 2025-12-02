@@ -21,11 +21,15 @@ Nathan Emily X
 Nathan Sasson
 Paul-César Bensemoun X
 Pierre Leclerc X
+<<<<<<< HEAD
+Pablo Pichon X
+=======
 Pablo Pichon
 Raphaël Mezine
 Sacha Benichou X
 Sulian Brouard-Heulluy
 Théodore Le Molgat
+>>>>>>> d2f8d2de7d7520b0442d19f7b2959d960eb4d692
 Raphaël MezineX
 Sacha Benichou
 Théodore Le Molgat X
